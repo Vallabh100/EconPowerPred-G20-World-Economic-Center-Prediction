@@ -64,4 +64,4 @@ The low probabilities of the bottom five countries indicate their challenges and
 ## Possible Future Challenge
 
 __External Validation__: 
-Check if my predictions match with what happens in the real world. This could include watching global economic trends, changes in politics, or big decisions and seeing how well this predictions agree with these real-world results.
+Check if my predictions match with what happens in the real world. This could include watching global economic trends, changes in politics, or big decisions and seeing how well this predictions agree with these real-world results..

@@ -17,7 +17,7 @@ The project utilizes 12 datasets from various sources that reflect different asp
 * Quality of Life
 * Working Age Population
 
-The datasets cover the period from 2000 to 2020 for each country in the G20 group.
+The datasets cover the period from 2000 to 2020 for each country in the G20 group
 
 ## Analysis and Prediction
 The project consists of two Jupyter notebooks: *Analysis.ipynb* and *Prediction.ipynb*. 

@@ -2,7 +2,7 @@
 This project aims to predict the probability of each country in the G20 group to become the World Economic Center in the future. The G20 group consists of 19 countries and the European Union, which together account for more than 80% of the global GDP, trade, and population. The G20 group is considered the most influential and representative forum for international economic cooperation and decision-making.
 
 ## Data Sources and Factors
-The project utilizes 12 datasets from various sources that reflect different aspects of economic development and performance. These factors include-
+The project utilizes 12 datasets from various sources that reflect different aspects of economic development and performance. These factors include:-
 
 * Coal Production
 * Crude Oil Production
